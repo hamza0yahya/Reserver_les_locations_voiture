@@ -1,0 +1,370 @@
+
+
+*{
+    outline: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration:none ;
+    }
+    * {
+        box-sizing: border-box;
+      }
+      html {
+        font-family: "Lucida Sans", sans-serif;
+      }
+       header {
+        font-family: monospace;
+        font-weight: bold;
+        font-size: 18px;
+        width: 100%;
+        height: 85px;
+        display: block;
+        background-color: #101010;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        z-index: 999;
+    }
+    
+    header h3 {
+        color:beige;
+        margin: -70px auto auto 100px ;
+        font-family: "Audiowide", sans-serif;
+        font-weight: bolder;
+        font-size: 32px;
+    }
+    header h4 {
+        color:rgb(255, 230, 0);
+        margin: 1px auto auto 100px ;
+        font-family: monospace;
+        font-weight: bolder;
+        font-size: 16px;
+    }
+.logo img {
+    margin : 10px auto auto 30px;
+    
+}
+
+
+.list1 li a {
+    display: inline;
+    float: left;
+    padding: 8px;
+    color: rgb(255 230 0);
+    padding: 30px 18px 18px;
+    text-decoration: none;
+    MARGIN-RIGHT: 12PX;
+    /* text-align: right; */
+    font-family: 'Lato';
+    font-size: 14px;
+}
+.list1 ul  {
+        
+        position: fixed;
+        top: 0;
+        width: 100%;
+        text-decoration: none;
+      }
+
+      .prom {
+        width: 75%;
+        margin-top: 6%;
+        margin-left: 31%;
+    }
+    #RR {
+        font-family: 'Lato';
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 4%;
+    }
+
+    #RR1 {
+        font-family: 'Lato';
+        font-size: 15px;
+        text-indent: 35px;
+        padding-top: 19px;
+    }
+    
+.playstore {
+    height: auto;
+    width: 26%;
+    margin-top: 2%;
+    MARGIN-LEFT: 44%;
+}
+.Appstore {
+    height: auto;
+    width: 12%;
+    margin-top: -5%;
+    MARGIN-LEFT: 49%;
+}
+
+
+#RR1 {
+    font-family: 'Lato';
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 19px;
+}
+#RR2 {
+    font-family: 'Lato';
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+.range {
+    height: auto;
+    width: 96%;
+    MARGIN-TOP: 6%;
+    MARGIN-LEFT: 22%;
+}
+
+
+#RR3 {
+    font-family: 'Lato';
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+
+.RR4 {
+    font-family: revert;
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+
+
+.RR4 span {
+    font-weight: bold;
+}
+
+.RR5 {
+    font-family: 'Lato';
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+
+.RR6 {
+    font-family: 'Lato';
+    font-size: 15px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+
+.border1 h1 {
+    font-family: 'Lato';
+    font-size: 32px;
+    text-indent: 35px;
+    padding-top: 28px;
+    TEXT-ALIGN: center;
+}
+
+
+
+ 
+.imagee {
+    width: 90%;
+    margin-top: 3%;
+    MARGIN-LEFT: 34%;
+}
+.border1 {
+    width: 40%;
+    height: auto;
+    border-top: black dotted 2px;
+    border-bottom: black dotted 2px;
+    margin-left: 32%;
+    margin-top: 3%;
+}
+.border1 ul {
+    list-style-type: disc;
+    margin-left: -24%;
+    margin-top: 2%;
+    font-family: revert;
+    line-height: 23px;
+    float: left;
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 14px;
+}   
+
+
+.border1 li {
+    list-style-type: disc;
+    margin-left: 29%;
+    margin-top: 2%;
+    font-family: revert;
+    line-height: 23px;
+    float: left;
+}
+
+.city {
+    width: 43%;
+    height: auto;
+    margin-top: 16%;
+    margin-left: 71%;
+}
+
+
+.footer {
+    width: 100%;
+    height: 31%;
+    background-color: #ffd700;
+    MARGIN-TOP: 33%;
+}
+.downlogo {
+width: 5.5%;
+height: auto;
+margin-top: 1%;
+margin-left: 89%;
+}
+.downlogo1 {
+width: 5%;
+height: auto;
+font-family: 'Audiowide';
+MARGIN-TOP: 0%;
+margin-left: 87.5%;
+text-decoration: none;
+color: rgb(163, 140, 140);
+font-size: 26px;
+font-weight: bolder;
+}
+.downlogo1 a{
+color: #101010;
+}
+.downlogo2 {
+/* width: 5%; */
+float: left;
+height: auto;
+font-family: 'Audiowide';
+MARGIN-TOP: 0%;
+margin-left: 87.5%;
+text-decoration: none;
+color: black;
+font-size: 12px;
+font-weight: bolder;
+}
+.downlogo2 a{
+color: #101010;
+}
+.footer2 input[type=email] {
+font-family: lato, sans-serif;
+font-size: 13px;
+min-height: 0px;
+font-weight: lighter;
+height: 39px;
+width: 30%;
+color: #000000;
+position: absolute;
+padding: 17px;
+letter-spacing: 1px;
+border-right: 0%;
+margin-top: -10%;
+margin-left: -65%;
+border: none;
+border-bottom: 2px solid #101010;
+/* border-top: 2px solid rgb(255 230 0); */
+box-sizing: border-box;
+outline: none;
+background: transparent;
+text-align: center;}
+
+.footer2 input {
+    outline: none;
+    width: 19%;
+    height: 13%;
+    border-radius: 12px;
+    background-color: #101010;
+    border: gold;
+    font-family: 'Trirong';
+    font-size: 13px;
+    font-weight: 800;
+    margin-top: -11%;
+    MARGIN-LEFT: 67%;
+    color: #fcfd02;
+    letter-spacing: 1px;
+}
+
+.RM {
+    font-family: 'Lato';
+    font-weight: bolder;
+    font-size: 19px;
+    padding-top: 1%;
+    padding-left: 3%;
+    font-variant: all-small-caps;
+}
+.num {
+    margin-top: -9%;
+    margin-left: 2%;
+    font-family: 'Lato';
+}
+
+.num1 {
+    margin-top: -1.5%;
+    margin-left: 3%;
+    font-family: 'Lato';
+    font-size: 11px;
+}
+.material-icons6 {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-size: 41px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    margin-top: -32px;
+    margin-left: 64%;
+   }
+
+   .material-icons7 {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-size: 41px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+    margin-top: 37px;
+    margin-left: 64%;
+   }
+   .insta img {
+    width: 3.1%;
+    height: auto;
+    margin-left: 66.7%;
+    margin-top: -3%;
+}
+   .twitter img {
+    width: 2.5%;
+    height: auto;
+    margin-left: 70%;
+    margin-top: -2.7%;
+}
+.follow input {
+    outline: none;
+    width: 9%;
+    height: 13%;
+    border-radius: 12px;
+    background-color: #101010;
+    border: gold;
+    font-family: 'Trirong';
+    font-size: 13px;
+    font-weight: 800;
+    margin-top: -2.5%;
+    MARGIN-LEFT: 73%;
+    color: rgb(255 230 0);
+    letter-spacing: 1px;
+}
